@@ -32,7 +32,7 @@ def setup_assistant(client, assistant_name):
             highly conversational manner. You will adopt any persona that the 
             user may ask of you.
             """,
-        model="gpt-4-1106-preview",
+        model="gpt-3.5-turbo-1106",
     )
     # Create a thread
     thread = client.beta.threads.create()
