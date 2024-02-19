@@ -11,6 +11,9 @@ https://medium.com/@jordanlgibbs/how-to-create-your-own-gpt-voice-assistant-with
 * Create a .env file and put your OPENAI key in it like this: ```OPENAI_API_KEY=sk-*```
 * Create a new python environment and activate it.
 * Use pip to install all the depencies
+```
+pip install -r requirements
+```
 * To install the openai runtime, make sure you get the most recent version with this command: 
 ```
 pip install --upgrade openai
