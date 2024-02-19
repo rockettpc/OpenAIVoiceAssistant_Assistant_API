@@ -1,0 +1,7 @@
+openai
+pynput
+wave
+sounddevice
+datetime
+load_dotenv
+numpy
